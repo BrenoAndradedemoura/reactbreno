@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { FaKey } from "react-icons/fa"
 import { MdEmail } from "react-icons/md";
 
-import * as S from "./styles";
+import * as S from "../Cadastrar/styles";
 import { ButtonComponent } from "components";
 
 const Login = () =>{

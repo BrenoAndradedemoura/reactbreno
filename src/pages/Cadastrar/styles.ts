@@ -11,6 +11,7 @@ export const Section = styled.section`
         color: ${colors.primary};
         font-weight: 500;
         margin-bottom: 2rem;
+        margin-top: 4rem;
         font-size: 2rem;
     }
     form {
